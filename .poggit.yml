@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/IcyEndymion004/Slapper-Plus-Updated
+build-by-default: true
+branches:
+- main
+projects:
+  Slapper-Plus-Updated:
+    path: ""
+...
