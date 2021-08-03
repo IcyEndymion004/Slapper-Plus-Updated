@@ -1,0 +1,13 @@
+name: SlapperPlus
+main: jojoe77777\SlapperPlus\Main
+version: 1.0.2
+api: [3.0.0]
+author: IcyEndymion004
+description: Add-on plugin for Slapper
+depend: [Slapper]
+website: "https://github.com/jojoe77777/SlapperPlus"
+
+permissions:
+  slapperplus.command:
+    default: op
+    description: "Allows access to /slapperplus"
